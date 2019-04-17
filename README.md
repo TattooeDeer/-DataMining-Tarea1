@@ -4,6 +4,6 @@ Integrantes:
 
 * Ignacio Loayza Campos		ignacio.1505@gmail.com
 * Monserrat Figueroa
-* Sebastián Ramirez
+* Sebastián Ramirez         sebastian.ramirez.14@sansano.usm.cl
 
 
